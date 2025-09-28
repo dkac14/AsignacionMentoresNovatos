@@ -2,10 +2,10 @@ from openpyxl import *
 from collections import defaultdict
 from itertools import cycle
 
-wbMentores = load_workbook(r"C:\Users\Lenovo\Downloads\PAO II 2025 Inscripcion Mentores.xlsx")
+wbMentores = load_workbook(r"C:\Users\Lenovo\Downloads\PAO II 2025 Inscripción Mentores(1-102).xlsx")
 wsMentores = wbMentores.active
 
-wbNovatos = load_workbook(r"C:\Users\Lenovo\Downloads\PAO II 2025 Inscripcion Novatos.xlsx")
+wbNovatos = load_workbook(r"C:\Users\Lenovo\Downloads\PAO II 2025 Inscripción Novatos(1-91).xlsx")
 wsNovatos = wbNovatos.active
 
 encM = [c.value for c in wsMentores[1]]
