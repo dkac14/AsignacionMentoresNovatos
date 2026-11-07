@@ -1,0 +1,258 @@
+[
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0962659728",
+      "carrera": "Computacion"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0962697341",
+      "carrera": "Computacion"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0978819347",
+      "carrera": "Computacion"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0962697341",
+      "carrera": "Computacion"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0988750275",
+      "carrera": "Ciencias de Datos e Inteligencia Artificial"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0969983082",
+        "carrera": "Ciencias de Datos e Inteligencia Artificial"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0998438458",
+        "carrera": "Ciencias de Datos e Inteligencia Artificial"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0961877976",
+      "carrera": "Ingenieria Industrial"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0993949066",
+        "carrera": "Ingenieria Industrial"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0939051249",
+      "carrera": "Electronica y Automatizacion"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0978992796",
+        "carrera": "Electronica y Automatizacion"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0939925648",
+      "carrera": "Biologia"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0969740667",
+      "carrera": "Licenciatura En Diseño de Productos"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0963348447",
+      "carrera": "Licenciatura En Diseño de Productos"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0985768803",
+      "carrera": "Licenciatura en Auditoria y Control de Gestion"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0999204764",
+      "carrera": "Telecomunicaciones"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0998923756",
+      "carrera": "Economia"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0981591000",
+        "carrera": "Economia"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0967861553",
+      "carrera": "Ingenieria Naval"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0960862575",
+        "carrera": "Ingenieria Naval"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0997259736",
+        "carrera": "Ingenieria Naval"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0959159024",
+      "carrera": "Licenciatura en Nutricion y Dietetica"
+    },
+    "novatos": []
+  },
+  {
+    "mentor": {
+      "nombre": "",
+      "correo": "anonymous",
+      "telefono": "0960091921",
+      "carrera": "Ingenieria en Mecatronica"
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0960873620",
+        "carrera": "Ingenieria en Mecatronica"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0963312366",
+        "carrera": "Ingenieria en Mecatronica"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0989782521",
+        "carrera": "Ingenieria en Mecatronica"
+      }
+    ]
+  },
+  {
+    "mentor": {
+      "nombre": "SIN MENTOR",
+      "correo": "",
+      "telefono": "",
+      "carrera": ""
+    },
+    "novatos": [
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0967313183",
+        "carrera": "Ingenieria Quimica"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0967843308",
+        "carrera": "Acuicultura"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0967806477",
+        "carrera": "Electricidad"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0994630840",
+        "carrera": "Matematicas"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0968298814",
+        "carrera": "Ingenieria en Alimentos"
+      },
+      {
+        "nombre": "",
+        "correo": "anonymous",
+        "telefono": "0991950901",
+        "carrera": "Mecanica"
+      }
+    ]
+  }
+]
